@@ -15,7 +15,7 @@ https://git-scm.com/
   - Commite
      `git commit -m "first"`
   
-  Pronto :thumbsup:
+  :thumbsup:
 
 ### 3. Comandos básico
 
