@@ -6,8 +6,8 @@ https://git-scm.com/
 ### 2. Comandos básico
 
 ###### configurando ambiente inicial
-aki 
-e aki
+ ashduaishduashduash 
+ asjdiasj dijasid 
 
 
 #### iniciando um repositório
