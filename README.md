@@ -1,4 +1,4 @@
-# básico de git
+# básico de git :top:
 
 ### 1. Download
 https://git-scm.com/
@@ -7,9 +7,12 @@ https://git-scm.com/
 
 #### configurando ambiente inicial
 
-<addr>oi</addr>
+git config --global user.name "Nome"
+git config --global user.email "email@email.com.br"
 
 
 #### iniciando um repositório
 * git init 
-Inicia um repositório local
+Inicia um repositório local. O branch inicial é o *master
+
+#### push/pull
