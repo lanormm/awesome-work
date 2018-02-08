@@ -1,7 +1,7 @@
 # básico de git
 
-## 1. Download
+### 1. Download
 https://git-scm.com/
 
-## 2. Comandos básico
+### 2. Comandos básico
 
