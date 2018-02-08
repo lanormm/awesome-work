@@ -22,7 +22,7 @@ https://git-scm.com/
 * git branch *<nome>*  
   Cria um novo branch sem apontar pra ele.
   
-* git checkout *<branch>*
+* git checkout *<branch>*  
   Aponta pra um branch específico.
  
 #### push/pull
