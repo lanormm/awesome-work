@@ -9,6 +9,7 @@ https://git-scm.com/
 
  git config --global user.name "Nome" 
  git config --global user.email "email@email.com.br" 
+ 
 
 
 #### iniciando um repositório
