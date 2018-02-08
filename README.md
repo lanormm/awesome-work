@@ -8,7 +8,7 @@ https://git-scm.com/
 ###### configurando ambiente inicial
 
  git config --global user.name "Nome"
- git 
+git 
  
 
 
