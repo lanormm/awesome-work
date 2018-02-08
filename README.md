@@ -5,10 +5,10 @@ https://git-scm.com/
 
 ### 2. Comandos básico
 
-#### configurando ambiente inicial
+##### configurando ambiente inicial
 
-git config --global user.name "Nome"
-git config --global user.email "email@email.com.br"
+git config --global user.name "Nome" 
+git config --global user.email "email@email.com.br" 
 
 
 #### iniciando um repositório
