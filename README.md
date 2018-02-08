@@ -6,8 +6,8 @@ https://git-scm.com/
 ### 2. Comandos básico
 
 ###### configurando ambiente inicial
-   ashduaishduashduash   
-   asjdiasj dijasid 
+  git config --global user.name "Nome"  
+  git config --global user.email "email@email.com"  
 
 
 #### iniciando um repositório
