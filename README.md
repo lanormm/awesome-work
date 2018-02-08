@@ -3,7 +3,21 @@
 ### 1. Download
 https://git-scm.com/
 
-### 2. Comandos básico
+
+### 2. Quickstart  
+
+  - Crie uma pasta e navegue até ela.
+  - Crie um repositório  
+    `git init`
+  - Crie um arquivo qualquer e salve com um conteúdo  
+  - Adicione ao *ndex*
+    `git add .` ou `git add <arquivo>`
+  - Commite
+     `git commit -m "first"`
+  
+  Pronto. :thumbsup:
+
+### 3. Comandos básico
 
 ###### configurando ambiente inicial
   ###### git config --global user.name "Nome"  
