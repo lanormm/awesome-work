@@ -10,8 +10,8 @@ https://git-scm.com/
   - Crie um repositório  
     `git init`
   - Crie um arquivo qualquer e salve com um conteúdo  
-  - Adicione ao *ndex*
-    `git add .` ou `git add <arquivo>`
+  - Adicione ao *Index*  
+     `git add .` ou `git add <arquivo>`
   - Commite
      `git commit -m "first"`
   
