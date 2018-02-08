@@ -75,4 +75,4 @@ https://git-scm.com/
   Lista os stashes.  
   
 * `git stash apply`  
- Aplica o último stash.
+ Aplica o último stash. `git stash drop` remove...
