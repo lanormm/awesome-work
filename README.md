@@ -16,7 +16,7 @@ https://git-scm.com/
   Inicia um repositório local.  
   O branch inicial é o *master*
   
-* git branch
+* git branch  
   Lista os repositórios locais.
  
 * git branch *<nome>*  
