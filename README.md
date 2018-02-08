@@ -8,7 +8,9 @@ https://git-scm.com/
 ###### configurando ambiente inicial
 
  git config --global user.name "Nome" 
- git 
+ Chat com funcionalidade básica de conversas criptografas com o RSA + DES. 
+ Socket não bloqueante do lado do servidor e cliente. 
+ Esquema de criptografia híbrida. 
  
 
 
