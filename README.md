@@ -69,7 +69,7 @@ https://git-scm.com/
   O stash é uma "mala" onde armazena as alterações feitas *até um ponto*. Ex: equivalente ao savepoint.  
   Funciona como uma pilha... Ideal para quando você está trabalhando em um branch e quer salvar o estado  
   atual do branch sem precisar commitar.  
-  É muito util em algumas situações :ok_hand:
+  É muito util em algumas situações :ok_hand: :poop:
   
 * `git stash list` 
   Lista os stashes.  
