@@ -11,9 +11,19 @@ https://git-scm.com/
 
 
 #### iniciando um repositório
+
 * git init  
   Inicia um repositório local.  
   O branch inicial é o *master*
+  
+* git branch
+  Lista os repositórios locais.
+ 
+* git branch *<nome>*  
+  Cria um novo branch sem apontar pra ele.
+  
+* git checkout *<branch>*
+  Aponta pra um branch específico.
  
 #### push/pull
 k
