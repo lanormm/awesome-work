@@ -16,3 +16,4 @@ git config --global user.email "email@email.com.br"
 Inicia um repositório local. O branch inicial é o *master
 
 #### push/pull
+k
