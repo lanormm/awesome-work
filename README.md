@@ -5,4 +5,11 @@ https://git-scm.com/
 
 ### 2. Comandos básico
 
-#### git init
+#### configurando ambiente inicial
+
+<addr>oi</addr>
+
+
+#### iniciando um repositório
+* git init 
+Inicia um repositório local
