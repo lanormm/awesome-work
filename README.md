@@ -12,7 +12,7 @@ https://git-scm.com/
 
 #### iniciando um repositório
 
-* git init  
+* `git init`
   Inicia um repositório local.  
   O branch inicial é o *master*
   
