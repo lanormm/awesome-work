@@ -33,6 +33,10 @@ https://git-scm.com/
   
 * `git add`  
   Adiciona todos os arquivos (.) ou um arquivo específico `git add arquivo`
+  
+* `git commit`  
+  Commita um arquivo no branch selecionado.  
+  É usado sempre acompanhado de uma mensagem `git commit -m "meu commit"`
  
 #### push/pull
 k
