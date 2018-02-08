@@ -12,26 +12,26 @@ https://git-scm.com/
 
 #### iniciando um repositório
 
-* `git init`
+* `git init`  
   Inicia um repositório local.  
   O branch inicial é o *master*
   
-* git branch  
+* `git branch`  
   Lista os repositórios locais.
  
-* git branch *<nome>*  
+* `git branch *<nome>*`  
   Cria um novo branch sem apontar pra ele.
   
-* git checkout *<branch>*  
+* `git checkout *<branch>*`  
   Aponta pra um branch específico.
   
-* git checkout --b *<branch>*  
+* `git checkout --b *<branch>*`  
   Cria e aponta para um novo branch.
   
-* git status  
+* `git status`  
   Lista o status dos arquivos no branch (se estão commitados,alterados ou deletados) 
   
-* git add  
+* `git add`  
   Adiciona todos os arquivos (.) ou um arquivo específico `git add arquivo`
  
 #### push/pull
