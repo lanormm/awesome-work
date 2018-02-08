@@ -24,6 +24,15 @@ https://git-scm.com/
   
 * git checkout *<branch>*  
   Aponta pra um branch específico.
+  
+* git checkout --b *<branch>*  
+  Cria e aponta para um novo branch.
+  
+* git status  
+  Lista o status dos arquivos no branch (se estão commitados,alterados ou deletados) 
+  
+* git add  
+  Adiciona todos os arquivos (.) ou um arquivo específico `git add arquivo`
  
 #### push/pull
 k
